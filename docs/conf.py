@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "pycounts"
+project = "nguyendc_pycounts"
 copyright = "2023, Cuong D. Nguyen"
 author = "Cuong D. Nguyen"
 
