@@ -6,9 +6,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
-copyright = u"2023, Cuong D. Nguyen"
-author = u"Cuong D. Nguyen"
+project = "pycounts"
+copyright = "2023, Cuong D. Nguyen"
+author = "Cuong D. Nguyen"
 
 # -- General configuration ---------------------------------------------------
 
